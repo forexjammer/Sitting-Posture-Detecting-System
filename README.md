@@ -1,4 +1,4 @@
-This was a Project I had in my university, it is a sitting posture detecting system coded with Python using a USB Camera in an office setting so the worker can see if their sitting  posture is healthy or not.
+This was a Project I had in my university, it is a sitting posture detecting system coded with Python using a USB Camera in an office setting so the worker can see if their sitting  posture is healthy or not. Mediapipe is used in this project.
 
 Example;
 
